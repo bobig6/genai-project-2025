@@ -1,0 +1,920 @@
+
+Epoch 1 started.
+Elapsed time: 457.3 secondsEpoch [0] Loss: 0.1246
+
+Epoch 1 finished training.
+Epoch 1 completed.
+
+
+Epoch 2 started.
+Epoch [1] Loss: 0.0710conds
+
+Epoch 2 finished training.
+Epoch 2 completed.
+
+
+Epoch 3 started.
+Epoch [2] Loss: 0.0383conds
+
+Epoch 3 finished training.
+Epoch 3 completed.
+
+
+Epoch 4 started.
+Elapsed time: 487.4 secondsEpoch [3] Loss: 0.0259
+
+Epoch 4 finished training.
+Epoch 4 completed.
+
+
+Epoch 5 started.
+Epoch [4] Loss: 0.0390conds
+
+Epoch 5 finished training.
+Model saved: fasterrcnn_resnet50_epoch_5.pth
+Epoch 5 completed.
+
+
+Epoch 6 started.
+Epoch [5] Loss: 0.0545conds
+
+Epoch 6 finished training.
+Epoch 6 completed.
+
+
+Epoch 7 started.
+Epoch [6] Loss: 0.0535conds
+
+Epoch 7 finished training.
+Epoch 7 completed.
+
+
+Epoch 8 started.
+Epoch [7] Loss: 0.0274conds
+
+Epoch 8 finished training.
+Epoch 8 completed.
+
+
+Epoch 9 started.
+Epoch [8] Loss: 0.0368conds
+
+Epoch 9 finished training.
+Epoch 9 completed.
+
+
+Epoch 10 started.
+Epoch [9] Loss: 0.0361conds
+
+Epoch 10 finished training.
+Model saved: fasterrcnn_resnet50_epoch_10.pth
+Epoch 10 completed.
+
+
+Epoch 11 started.
+Epoch [10] Loss: 0.0946onds
+
+Epoch 11 finished training.
+Epoch 11 completed.
+
+
+Epoch 12 started.
+Epoch [11] Loss: 0.0419onds
+
+Epoch 12 finished training.
+Epoch 12 completed.
+
+
+Epoch 13 started.
+Epoch [12] Loss: 0.0859onds
+
+Epoch 13 finished training.
+Epoch 13 completed.
+
+
+Epoch 14 started.
+Epoch [13] Loss: 0.0952onds
+
+Epoch 14 finished training.
+Epoch 14 completed.
+
+
+Epoch 15 started.
+Epoch [14] Loss: 0.0269onds
+
+Epoch 15 finished training.
+Model saved: fasterrcnn_resnet50_epoch_15.pth
+Epoch 15 completed.
+
+
+Epoch 16 started.
+Elapsed time: 545.4 secondsEpoch [15] Loss: 0.1016
+
+Epoch 16 finished training.
+Epoch 16 completed.
+
+
+Epoch 17 started.
+Epoch [16] Loss: 0.0751onds
+
+Epoch 17 finished training.
+Epoch 17 completed.
+
+
+Epoch 18 started.
+Epoch [17] Loss: 0.0340onds
+
+Epoch 18 finished training.
+Epoch 18 completed.
+
+
+Epoch 19 started.
+Elapsed time: 615.4 secondsEpoch [18] Loss: 0.0349
+
+Epoch 19 finished training.
+Epoch 19 completed.
+
+
+Epoch 20 started.
+Epoch [19] Loss: 0.0282onds
+
+Epoch 20 finished training.
+Model saved: fasterrcnn_resnet50_epoch_20.pth
+Epoch 20 completed.
+
+
+Epoch 21 started.
+Elapsed time: 541.4 secondsEpoch [20] Loss: 0.0543
+
+Epoch 21 finished training.
+Epoch 21 completed.
+
+
+Epoch 22 started.
+Epoch [21] Loss: 0.0691onds
+
+Epoch 22 finished training.
+Epoch 22 completed.
+
+
+Epoch 23 started.
+Epoch [22] Loss: 0.0362onds
+
+Epoch 23 finished training.
+Epoch 23 completed.
+
+
+Epoch 24 started.
+Epoch [23] Loss: 0.0305onds
+
+Epoch 24 finished training.
+Epoch 24 completed.
+
+
+Epoch 25 started.
+Epoch [24] Loss: 0.0375onds
+
+Epoch 25 finished training.
+Model saved: fasterrcnn_resnet50_epoch_25.pth
+Epoch 25 completed.
+
+
+Epoch 26 started.
+Epoch [25] Loss: 0.0367onds
+
+Epoch 26 finished training.
+Epoch 26 completed.
+
+
+Epoch 27 started.
+Epoch [26] Loss: 0.1690onds
+
+Epoch 27 finished training.
+Epoch 27 completed.
+
+
+Epoch 28 started.
+Epoch [27] Loss: 0.0846onds
+
+Epoch 28 finished training.
+Epoch 28 completed.
+
+
+Epoch 29 started.
+Epoch [28] Loss: 0.0338onds
+
+Epoch 29 finished training.
+Epoch 29 completed.
+
+
+Epoch 30 started.
+Epoch [29] Loss: 0.0373onds
+
+Epoch 30 finished training.
+Model saved: fasterrcnn_resnet50_epoch_30.pth
+Epoch 30 completed.
+
+
+Epoch 31 started.
+Epoch [30] Loss: 0.0307onds
+
+Epoch 31 finished training.
+Epoch 31 completed.
+
+
+Epoch 32 started.
+Epoch [31] Loss: 0.0695onds
+
+Epoch 32 finished training.
+Epoch 32 completed.
+
+
+Epoch 33 started.
+Epoch [32] Loss: 0.0628onds
+
+Epoch 33 finished training.
+Epoch 33 completed.
+
+
+Epoch 34 started.
+Epoch [33] Loss: 0.0366onds
+
+Epoch 34 finished training.
+Epoch 34 completed.
+
+
+Epoch 35 started.
+Epoch [34] Loss: 0.0371onds
+
+Epoch 35 finished training.
+Model saved: fasterrcnn_resnet50_epoch_35.pth
+Epoch 35 completed.
+
+
+Epoch 36 started.
+Epoch [35] Loss: 0.0250onds
+
+Epoch 36 finished training.
+Epoch 36 completed.
+
+
+Epoch 37 started.
+Epoch [36] Loss: 0.0265onds
+
+Epoch 37 finished training.
+Epoch 37 completed.
+
+
+Epoch 38 started.
+Elapsed time: 416.3 secondsEpoch [37] Loss: 0.0381
+
+Epoch 38 finished training.
+Epoch 38 completed.
+
+
+Epoch 39 started.
+Epoch [38] Loss: 0.0350onds
+
+Epoch 39 finished training.
+Epoch 39 completed.
+
+
+Epoch 40 started.
+Epoch [39] Loss: 0.0344onds
+
+Epoch 40 finished training.
+Model saved: fasterrcnn_resnet50_epoch_40.pth
+Epoch 40 completed.
+
+
+Epoch 41 started.
+Epoch [40] Loss: 0.0245onds
+
+Epoch 41 finished training.
+Epoch 41 completed.
+
+
+Epoch 42 started.
+Epoch [41] Loss: 0.0503onds
+
+Epoch 42 finished training.
+Epoch 42 completed.
+
+
+Epoch 43 started.
+Epoch [42] Loss: 0.0496onds
+
+Epoch 43 finished training.
+Epoch 43 completed.
+
+
+Epoch 44 started.
+Elapsed time: 450.3 secondsEpoch [43] Loss: 0.0167
+
+Epoch 44 finished training.
+Epoch 44 completed.
+
+
+Epoch 45 started.
+Elapsed time: 478.4 secondsEpoch [44] Loss: 0.0430
+
+Epoch 45 finished training.
+Model saved: fasterrcnn_resnet50_epoch_45.pth
+Epoch 45 completed.
+
+
+Epoch 46 started.
+Epoch [45] Loss: 0.0464onds
+
+Epoch 46 finished training.
+Epoch 46 completed.
+
+
+Epoch 47 started.
+Epoch [46] Loss: 0.0328onds
+
+Epoch 47 finished training.
+Epoch 47 completed.
+
+
+Epoch 48 started.
+Epoch [47] Loss: 0.0227onds
+
+Epoch 48 finished training.
+Epoch 48 completed.
+
+
+Epoch 49 started.
+Epoch [48] Loss: 0.0257onds
+
+Epoch 49 finished training.
+Epoch 49 completed.
+
+
+Epoch 50 started.
+Epoch [49] Loss: 0.0204onds
+
+Epoch 50 finished training.
+Model saved: fasterrcnn_resnet50_epoch_50.pth
+Epoch 50 completed.
+
+
+Epoch 51 started.
+Epoch [50] Loss: 0.0500onds
+
+Epoch 51 finished training.
+Epoch 51 completed.
+
+
+Epoch 52 started.
+Epoch [51] Loss: 0.0295onds
+
+Epoch 52 finished training.
+Epoch 52 completed.
+
+
+Epoch 53 started.
+Epoch [52] Loss: 0.0230onds
+
+Epoch 53 finished training.
+Epoch 53 completed.
+
+
+Epoch 54 started.
+Epoch [53] Loss: 0.0338onds
+
+Epoch 54 finished training.
+Epoch 54 completed.
+
+
+Epoch 55 started.
+Epoch [54] Loss: 0.0195onds
+
+Epoch 55 finished training.
+Model saved: fasterrcnn_resnet50_epoch_55.pth
+Epoch 55 completed.
+
+
+Epoch 56 started.
+Epoch [55] Loss: 0.0522onds
+
+Epoch 56 finished training.
+Epoch 56 completed.
+
+
+Epoch 57 started.
+Epoch [56] Loss: 0.0302onds
+
+Epoch 57 finished training.
+Epoch 57 completed.
+
+
+Epoch 58 started.
+Epoch [57] Loss: 0.0251onds
+
+Epoch 58 finished training.
+Epoch 58 completed.
+
+
+Epoch 59 started.
+Epoch [58] Loss: 0.0400onds
+
+Epoch 59 finished training.
+Epoch 59 completed.
+
+
+Epoch 60 started.
+Epoch [59] Loss: 0.0490onds
+
+Epoch 60 finished training.
+Model saved: fasterrcnn_resnet50_epoch_60.pth
+Epoch 60 completed.
+
+
+Epoch 61 started.
+Epoch [60] Loss: 0.0675onds
+
+Epoch 61 finished training.
+Epoch 61 completed.
+
+
+Epoch 62 started.
+Epoch [61] Loss: 0.0383onds
+
+Epoch 62 finished training.
+Epoch 62 completed.
+
+
+Epoch 63 started.
+Epoch [62] Loss: 0.0319onds
+
+Epoch 63 finished training.
+Epoch 63 completed.
+
+
+Epoch 64 started.
+Epoch [63] Loss: 0.0616onds
+
+Epoch 64 finished training.
+Epoch 64 completed.
+
+
+Epoch 65 started.
+Elapsed time: 471.4 secondsEpoch [64] Loss: 0.0262
+
+Epoch 65 finished training.
+Model saved: fasterrcnn_resnet50_epoch_65.pth
+Epoch 65 completed.
+
+
+Epoch 66 started.
+Epoch [65] Loss: 0.0336onds
+
+Epoch 66 finished training.
+Epoch 66 completed.
+
+
+Epoch 67 started.
+Epoch [66] Loss: 0.0378onds
+
+Epoch 67 finished training.
+Epoch 67 completed.
+
+
+Epoch 68 started.
+Epoch [67] Loss: 0.0279onds
+
+Epoch 68 finished training.
+Epoch 68 completed.
+
+
+Epoch 69 started.
+Epoch [68] Loss: 0.0213onds
+
+Epoch 69 finished training.
+Epoch 69 completed.
+
+
+Epoch 70 started.
+Elapsed time: 372.3 secondsEpoch [69] Loss: 0.0405
+
+Epoch 70 finished training.
+Model saved: fasterrcnn_resnet50_epoch_70.pth
+Epoch 70 completed.
+
+
+Epoch 71 started.
+Epoch [70] Loss: 0.0314onds
+
+Epoch 71 finished training.
+Epoch 71 completed.
+
+
+Epoch 72 started.
+Epoch [71] Loss: 0.0295onds
+
+Epoch 72 finished training.
+Epoch 72 completed.
+
+
+Epoch 73 started.
+Epoch [72] Loss: 0.0338onds
+
+Epoch 73 finished training.
+Epoch 73 completed.
+
+
+Epoch 74 started.
+Epoch [73] Loss: 0.0605onds
+
+Epoch 74 finished training.
+Epoch 74 completed.
+
+
+Epoch 75 started.
+Elapsed time: 499.4 secondsEpoch [74] Loss: 0.0314
+
+Epoch 75 finished training.
+Model saved: fasterrcnn_resnet50_epoch_75.pth
+Epoch 75 completed.
+
+
+Epoch 76 started.
+Epoch [75] Loss: 0.0313onds
+
+Epoch 76 finished training.
+Epoch 76 completed.
+
+
+Epoch 77 started.
+Epoch [76] Loss: 0.0566onds
+
+Epoch 77 finished training.
+Epoch 77 completed.
+
+
+Epoch 78 started.
+Epoch [77] Loss: 0.0475onds
+
+Epoch 78 finished training.
+Epoch 78 completed.
+
+
+Epoch 79 started.
+Epoch [78] Loss: 0.0434onds
+
+Epoch 79 finished training.
+Epoch 79 completed.
+
+
+Epoch 80 started.
+Epoch [79] Loss: 0.0319onds
+
+Epoch 80 finished training.
+Model saved: fasterrcnn_resnet50_epoch_80.pth
+Epoch 80 completed.
+
+
+Epoch 81 started.
+Epoch [80] Loss: 0.0412onds
+
+Epoch 81 finished training.
+Epoch 81 completed.
+
+
+Epoch 82 started.
+Epoch [81] Loss: 0.0307onds
+
+Epoch 82 finished training.
+Epoch 82 completed.
+
+
+Epoch 83 started.
+Epoch [82] Loss: 0.0584onds
+
+Epoch 83 finished training.
+Epoch 83 completed.
+
+
+Epoch 84 started.
+Elapsed time: 579.5 secondsEpoch [83] Loss: 0.0372
+
+Epoch 84 finished training.
+Epoch 84 completed.
+
+
+Epoch 85 started.
+Epoch [84] Loss: 0.0595onds
+
+Epoch 85 finished training.
+Model saved: fasterrcnn_resnet50_epoch_85.pth
+Epoch 85 completed.
+
+
+Epoch 86 started.
+Epoch [85] Loss: 0.0490onds
+
+Epoch 86 finished training.
+Epoch 86 completed.
+
+
+Epoch 87 started.
+Epoch [86] Loss: 0.0285onds
+
+Epoch 87 finished training.
+Epoch 87 completed.
+
+
+Epoch 88 started.
+Epoch [87] Loss: 0.0645onds
+
+Epoch 88 finished training.
+Epoch 88 completed.
+
+
+Epoch 89 started.
+Epoch [88] Loss: 0.0354onds
+
+Epoch 89 finished training.
+Epoch 89 completed.
+
+
+Epoch 90 started.
+Epoch [89] Loss: 0.0266onds
+
+Epoch 90 finished training.
+Model saved: fasterrcnn_resnet50_epoch_90.pth
+Epoch 90 completed.
+
+
+Epoch 91 started.
+Epoch [90] Loss: 0.0470onds
+
+Epoch 91 finished training.
+Epoch 91 completed.
+
+
+Epoch 92 started.
+Epoch [91] Loss: 0.0583onds
+
+Epoch 92 finished training.
+Epoch 92 completed.
+
+
+Epoch 93 started.
+Epoch [92] Loss: 0.0633onds
+
+Epoch 93 finished training.
+Epoch 93 completed.
+
+
+Epoch 94 started.
+Epoch [93] Loss: 0.0288onds
+
+Epoch 94 finished training.
+Epoch 94 completed.
+
+
+Epoch 95 started.
+Epoch [94] Loss: 0.0288onds
+
+Epoch 95 finished training.
+Model saved: fasterrcnn_resnet50_epoch_95.pth
+Epoch 95 completed.
+
+
+Epoch 96 started.
+Epoch [95] Loss: 0.0425onds
+
+Epoch 96 finished training.
+Epoch 96 completed.
+
+
+Epoch 97 started.
+Epoch [96] Loss: 0.0530onds
+
+Epoch 97 finished training.
+Epoch 97 completed.
+
+
+Epoch 98 started.
+Epoch [97] Loss: 0.0514onds
+
+Epoch 98 finished training.
+Epoch 98 completed.
+
+
+Epoch 99 started.
+Elapsed time: 521.4 secondsEpoch [98] Loss: 0.0556
+
+Epoch 99 finished training.
+Epoch 99 completed.
+
+
+Epoch 100 started.
+Epoch [99] Loss: 0.0342onds
+
+Epoch 100 finished training.
+Model saved: fasterrcnn_resnet50_epoch_100.pth
+Epoch 100 completed.
+
+
+Epoch 101 started.
+Elapsed time: 497.4 secondsEpoch [100] Loss: 0.0306
+
+Epoch 101 finished training.
+Epoch 101 completed.
+
+
+Epoch 102 started.
+Epoch [101] Loss: 0.0840nds
+
+Epoch 102 finished training.
+Epoch 102 completed.
+
+
+Epoch 103 started.
+Epoch [102] Loss: 0.0365nds
+
+Epoch 103 finished training.
+Epoch 103 completed.
+
+
+Epoch 104 started.
+Epoch [103] Loss: 0.0247nds
+
+Epoch 104 finished training.
+Epoch 104 completed.
+
+
+Epoch 105 started.
+Elapsed time: 570.5 secondsEpoch [104] Loss: 0.0438
+
+Epoch 105 finished training.
+Model saved: fasterrcnn_resnet50_epoch_105.pth
+Epoch 105 completed.
+
+
+Epoch 106 started.
+Epoch [105] Loss: 0.0352nds
+
+Epoch 106 finished training.
+Epoch 106 completed.
+
+
+Epoch 107 started.
+Epoch [106] Loss: 0.0328nds
+
+Epoch 107 finished training.
+Epoch 107 completed.
+
+
+Epoch 108 started.
+Epoch [107] Loss: 0.0482nds
+
+Epoch 108 finished training.
+Epoch 108 completed.
+
+
+Epoch 109 started.
+Epoch [108] Loss: 0.0803nds
+
+Epoch 109 finished training.
+Epoch 109 completed.
+
+
+Epoch 110 started.
+Epoch [109] Loss: 0.0564nds
+
+Epoch 110 finished training.
+Model saved: fasterrcnn_resnet50_epoch_110.pth
+Epoch 110 completed.
+
+
+Epoch 111 started.
+Epoch [110] Loss: 0.0518nds
+
+Epoch 111 finished training.
+Epoch 111 completed.
+
+
+Epoch 112 started.
+Epoch [111] Loss: 0.0511nds
+
+Epoch 112 finished training.
+Epoch 112 completed.
+
+
+Epoch 113 started.
+Epoch [112] Loss: 0.0419nds
+
+Epoch 113 finished training.
+Epoch 113 completed.
+
+
+Epoch 114 started.
+Elapsed time: 562.4 secondsEpoch [113] Loss: 0.0376
+
+Epoch 114 finished training.
+Epoch 114 completed.
+
+
+Epoch 115 started.
+Epoch [114] Loss: 0.0305nds
+
+Epoch 115 finished training.
+Model saved: fasterrcnn_resnet50_epoch_115.pth
+Epoch 115 completed.
+
+
+Epoch 116 started.
+Epoch [115] Loss: 0.0335nds
+
+Epoch 116 finished training.
+Epoch 116 completed.
+
+
+Epoch 117 started.
+Epoch [116] Loss: 0.0370nds
+
+Epoch 117 finished training.
+Epoch 117 completed.
+
+
+Epoch 118 started.
+Epoch [117] Loss: 0.0437nds
+
+Epoch 118 finished training.
+Epoch 118 completed.
+
+
+Epoch 119 started.
+Epoch [118] Loss: 0.0186nds
+
+Epoch 119 finished training.
+Epoch 119 completed.
+
+
+Epoch 120 started.
+Epoch [119] Loss: 0.0371nds
+
+Epoch 120 finished training.
+Model saved: fasterrcnn_resnet50_epoch_120.pth
+Epoch 120 completed.
+
+
+Epoch 121 started.
+Epoch [120] Loss: 0.0383nds
+
+Epoch 121 finished training.
+Epoch 121 completed.
+
+
+Epoch 122 started.
+Epoch [121] Loss: 0.0337nds
+
+Epoch 122 finished training.
+Epoch 122 completed.
+
+
+Epoch 123 started.
+Epoch [122] Loss: 0.0432nds
+
+Epoch 123 finished training.
+Epoch 123 completed.
+
+
+Epoch 124 started.
+Epoch [123] Loss: 0.0644nds
+
+Epoch 124 finished training.
+Epoch 124 completed.
+
+
+Epoch 125 started.
+Epoch [124] Loss: 0.0855nds
+
+Epoch 125 finished training.
+Model saved: fasterrcnn_resnet50_epoch_125.pth
+Epoch 125 completed.
+
+
+Epoch 126 started.
+Elapsed time: 502.4 secondsEpoch [125] Loss: 0.1190
+
+Epoch 126 finished training.
+Epoch 126 completed.
+
+
+Epoch 127 started.
+Elapsed time: 464.4 secondsEpoch [126] Loss: 0.0705
+
+Epoch 127 finished training.
+Epoch 127 completed.
+
+
+Epoch 128 started.
+Elapsed time: 73.1 seconds
+Training interrupted by user. Saving current model state before exiting...
+Model saved: fasterrcnn_resnet50_epoch_128_interrupt.pth
+Elapsed time: 124.1 seconds
