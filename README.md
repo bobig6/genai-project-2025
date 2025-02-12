@@ -7,7 +7,8 @@
 - **Author:** Boyan Ivanov (Faculty Number: 0MI0800011)  
 - **GitHub Repository:** [Museum Quiz System](https://github.com/bobig6/genai-project-2025)  
 - **Dataset:** [photos.zip](https://drive.google.com/file/d/1ZY_WbA-Fd4qw5YFBzw4P0LlLCNWVl5VE/view?usp=sharing)
-- **Unity Project** [generation_and_mobile_project.unitypackage](https://drive.google.com/file/d/1NyGZJlZZl8DqWJKnAy7f_KxRXeZk8rzK/view?usp=sharing)  
+- **Unity Project**: [generation_and_mobile_project.unitypackage](https://drive.google.com/file/d/1NyGZJlZZl8DqWJKnAy7f_KxRXeZk8rzK/view?usp=sharing)  
+- **Inspired by**: [Faster R-CNN on custom dataset Using Pytorch](https://www.youtube.com/watch?v=xYd95gppJ-0&ab_channel=CodeWithAarohi)
 
 - **Short Description:**  
   - Identifies museum exhibits from user-submitted images.  
