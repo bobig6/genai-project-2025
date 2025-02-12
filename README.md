@@ -6,6 +6,9 @@
 - **Course:** Intelligent Agents with Generative AI – 2024 / 2025  
 - **Author:** Boyan Ivanov (Faculty Number: 0MI0800011)  
 - **GitHub Repository:** [Museum Quiz System](https://github.com/bobig6/genai-project-2025)  
+- **Dataset:** [photos.zip](https://drive.google.com/file/d/1ZY_WbA-Fd4qw5YFBzw4P0LlLCNWVl5VE/view?usp=sharing)
+- **Unity Project** [generation_and_mobile_project.unitypackage](https://drive.google.com/file/d/1NyGZJlZZl8DqWJKnAy7f_KxRXeZk8rzK/view?usp=sharing)  
+
 - **Short Description:**  
   - Identifies museum exhibits from user-submitted images.  
   - Uses Faster R-CNN for object detection.  
